@@ -12,3 +12,4 @@ The features from the data set describe characteristics of the cell nuclei and a
 The first two columns in the dataset store the unique ID numbers of the samples and the corresponding diagnosis (M=malignant, B=benign), respectively.
 The columns 3-32 contain 30 real-value features that have been computed from digitized images of the cell nuclei, which can be used to build a model to predict whether a tumor is benign or malignant.
 The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
+![Screenshot (58)](https://github.com/developernandini/Data-science/assets/107920115/3dc6d7bf-00f5-4090-bea6-928b098baaa8)
